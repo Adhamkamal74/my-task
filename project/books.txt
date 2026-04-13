@@ -1,0 +1,15 @@
+1,The Great Gatsby,F. Scott Fitzgerald,Fiction,True
+2,A Brief History of Time,Stephen Hawking,Science,True
+3,Sapiens,Yuval Noah Harari,History,False
+4,The Alchemist,Paulo Coelho,Fiction,True
+5,The Holy Quran,Allah,Religion,True
+6,Clean Code,Robert C. Martin,Technology,False
+7,1984,George Orwell,Fiction,True
+8,The Selfish Gene,Richard Dawkins,Science,True
+9,World War II History,Anthony Beevor,History,False
+10,The Power of Now,Eckhart Tolle,Religion,True
+11,The Pragmatic Programmer,Andrew Hunt,Technology,True
+12,To Kill a Mockingbird,Harper Lee,Fiction,False
+13,Cosmos,Carl Sagan,Science,True
+14,Guns Germs and Steel,Jared Diamond,History,True
+15,Design Patterns,Gang of Four,Technology,False
