@@ -3,21 +3,21 @@ using LibrarySystem;
 // Initialize array of 15 books
 Book[] books = new Book[]
 {
-    new Book(1, "The Great Gatsby",         "F. Scott Fitzgerald", BookCategory.Fiction,    true),
+    new Book(1, "The Great Gatsby",         "F. Scott Fitzgerald", BookCategory.math,    true),
     new Book(2, "A Brief History of Time",  "Stephen Hawking",     BookCategory.Science,    true),
     new Book(3, "Sapiens",                  "Yuval Noah Harari",   BookCategory.History,    false),
-    new Book(4, "The Alchemist",            "Paulo Coelho",        BookCategory.Fiction,    true),
-    new Book(5, "The Holy Quran",           "Allah",               BookCategory.Religion,   true),
-    new Book(6, "Clean Code",               "Robert C. Martin",    BookCategory.Technology, false),
-    new Book(7, "1984",                     "George Orwell",       BookCategory.Fiction,    true),
+    new Book(4, "The Alchemist",            "Paulo Coelho",        BookCategory.math,    true),
+    new Book(5, "The Holy Quran",           "Allah",               BookCategory.physics,   true),
+    new Book(6, "Clean Code",               "Robert C. Martin",    BookCategory.probapility, false),
+    new Book(7, "1984",                     "George Orwell",       BookCategory.math,    true),
     new Book(8, "The Selfish Gene",         "Richard Dawkins",     BookCategory.Science,    true),
     new Book(9, "World War II History",     "Anthony Beevor",      BookCategory.History,    false),
-    new Book(10,"The Power of Now",         "Eckhart Tolle",       BookCategory.Religion,   true),
-    new Book(11,"The Pragmatic Programmer", "Andrew Hunt",         BookCategory.Technology, true),
-    new Book(12,"To Kill a Mockingbird",    "Harper Lee",          BookCategory.Fiction,    false),
+    new Book(10,"The Power of Now",         "Eckhart Tolle",       BookCategory.physics,   true),
+    new Book(11,"The Pragmatic Programmer", "Andrew Hunt",         BookCategory.probapility, true),
+    new Book(12,"To Kill a Mockingbird",    "Harper Lee",          BookCategory.math,    false),
     new Book(13,"Cosmos",                   "Carl Sagan",          BookCategory.Science,    true),
     new Book(14,"Guns Germs and Steel",     "Jared Diamond",       BookCategory.History,    true),
-    new Book(15,"Design Patterns",          "Gang of Four",        BookCategory.Technology, false),
+    new Book(15,"Design Patterns",          "Gang of Four",        BookCategory.probapility, false),
 };
 
 bool running = true;

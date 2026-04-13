@@ -2,11 +2,11 @@ namespace LibrarySystem
 {
     public enum BookCategory
     {
-        Fiction,
+        math,
         Science,
         History,
-        Religion,
-        Technology,
+        physics,
+        probapility,
         Other
     }
 }
